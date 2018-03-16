@@ -1,0 +1,12 @@
+魂斗罗:
+
+1 编辑 contra.ini 设置游戏参数;
+2 点击 contra.exe 开始游戏;
+3 操作:
+    a               :continuous_shooting 持续射击
+    z               :shoot_once 单次射击
+    s               :continuous_jumping 持续跳跃
+    x               :jump_once 单次跳跃
+    Space空格 :change_selection/color 切换选项/颜色
+    Enter回车  :Ok/suspend 确认/暂停
+    Esc            :exit 退出

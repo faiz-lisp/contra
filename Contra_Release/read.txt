@@ -1,0 +1,4 @@
+魂斗罗:
+
+1 编辑 contra.ini 设置游戏参数;
+2 点击 contra.exe 开始游戏;
